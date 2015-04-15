@@ -14,6 +14,7 @@
 		056194EB1ADEBB2D00A9FF73 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 056194EA1ADEBB2D00A9FF73 /* Images.xcassets */; };
 		056194EE1ADEBB2D00A9FF73 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 056194EC1ADEBB2D00A9FF73 /* LaunchScreen.xib */; };
 		056194FA1ADEBB2E00A9FF73 /* Flip_LabelTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 056194F91ADEBB2E00A9FF73 /* Flip_LabelTests.m */; };
+		056195051ADEBB6A00A9FF73 /* GWFlipLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 056195041ADEBB6A00A9FF73 /* GWFlipLabel.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		056194F31ADEBB2E00A9FF73 /* Flip LabelTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Flip LabelTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		056194F81ADEBB2E00A9FF73 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		056194F91ADEBB2E00A9FF73 /* Flip_LabelTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Flip_LabelTests.m; sourceTree = "<group>"; };
+		056195031ADEBB6A00A9FF73 /* GWFlipLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GWFlipLabel.h; sourceTree = "<group>"; };
+		056195041ADEBB6A00A9FF73 /* GWFlipLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GWFlipLabel.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +88,8 @@
 				056194E21ADEBB2D00A9FF73 /* AppDelegate.m */,
 				056194E41ADEBB2D00A9FF73 /* ViewController.h */,
 				056194E51ADEBB2D00A9FF73 /* ViewController.m */,
+				056195031ADEBB6A00A9FF73 /* GWFlipLabel.h */,
+				056195041ADEBB6A00A9FF73 /* GWFlipLabel.m */,
 				056194E71ADEBB2D00A9FF73 /* Main.storyboard */,
 				056194EA1ADEBB2D00A9FF73 /* Images.xcassets */,
 				056194EC1ADEBB2D00A9FF73 /* LaunchScreen.xib */,
@@ -220,6 +225,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				056194E61ADEBB2D00A9FF73 /* ViewController.m in Sources */,
+				056195051ADEBB6A00A9FF73 /* GWFlipLabel.m in Sources */,
 				056194E31ADEBB2D00A9FF73 /* AppDelegate.m in Sources */,
 				056194E01ADEBB2D00A9FF73 /* main.m in Sources */,
 			);
