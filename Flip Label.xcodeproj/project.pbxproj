@@ -420,6 +420,7 @@
 				056194FF1ADEBB2E00A9FF73 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		056195001ADEBB2E00A9FF73 /* Build configuration list for PBXNativeTarget "Flip LabelTests" */ = {
 			isa = XCConfigurationList;
@@ -428,6 +429,7 @@
 				056195021ADEBB2E00A9FF73 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
