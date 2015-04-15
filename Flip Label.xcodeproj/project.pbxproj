@@ -15,7 +15,7 @@
 		056194EE1ADEBB2D00A9FF73 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 056194EC1ADEBB2D00A9FF73 /* LaunchScreen.xib */; };
 		056194FA1ADEBB2E00A9FF73 /* Flip_LabelTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 056194F91ADEBB2E00A9FF73 /* Flip_LabelTests.m */; };
 		056195051ADEBB6A00A9FF73 /* GWFlipLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 056195041ADEBB6A00A9FF73 /* GWFlipLabel.m */; };
-		056195071ADEF68800A9FF73 /* ScreenCapture.gif in Resources */ = {isa = PBXBuildFile; fileRef = 056195061ADEF68800A9FF73 /* ScreenCapture.gif */; };
+		056195091ADEF7DD00A9FF73 /* ScreenCapture.gif in Resources */ = {isa = PBXBuildFile; fileRef = 056195081ADEF7DD00A9FF73 /* ScreenCapture.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,7 +44,7 @@
 		056194F91ADEBB2E00A9FF73 /* Flip_LabelTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Flip_LabelTests.m; sourceTree = "<group>"; };
 		056195031ADEBB6A00A9FF73 /* GWFlipLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GWFlipLabel.h; sourceTree = "<group>"; };
 		056195041ADEBB6A00A9FF73 /* GWFlipLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GWFlipLabel.m; sourceTree = "<group>"; };
-		056195061ADEF68800A9FF73 /* ScreenCapture.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = ScreenCapture.gif; sourceTree = SOURCE_ROOT; };
+		056195081ADEF7DD00A9FF73 /* ScreenCapture.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = ScreenCapture.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,7 +103,7 @@
 		056194DD1ADEBB2D00A9FF73 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				056195061ADEF68800A9FF73 /* ScreenCapture.gif */,
+				056195081ADEF7DD00A9FF73 /* ScreenCapture.gif */,
 				056194DE1ADEBB2D00A9FF73 /* Info.plist */,
 				056194DF1ADEBB2D00A9FF73 /* main.m */,
 			);
@@ -208,7 +208,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				056194E91ADEBB2D00A9FF73 /* Main.storyboard in Resources */,
-				056195071ADEF68800A9FF73 /* ScreenCapture.gif in Resources */,
+				056195091ADEF7DD00A9FF73 /* ScreenCapture.gif in Resources */,
 				056194EE1ADEBB2D00A9FF73 /* LaunchScreen.xib in Resources */,
 				056194EB1ADEBB2D00A9FF73 /* Images.xcassets in Resources */,
 			);
