@@ -362,7 +362,7 @@ CGFloat positionOfRect(CGFloat length, CGFloat container, NSInteger alignment)
     
     NSUInteger stringDataStringLength = stringLengthWith32Data(stringData);
     
-    NSMutableArray *letterImageViews = [[NSMutableArray alloc] initWithCapacity:[self.text length]];
+    NSMutableArray *letterImageViews = [[NSMutableArray alloc] initWithCapacity:stringDataStringLength];
     CGFloat previousWidth = 0.0;
     NSString *currentString;
     
