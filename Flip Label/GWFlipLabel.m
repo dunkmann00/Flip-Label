@@ -22,6 +22,8 @@
 
 @implementation GWFlipLabel
 
+@dynamic userInteractionEnabled;
+
 -(void)setFrame:(CGRect)frame
 {
     [super setFrame:frame];
